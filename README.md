@@ -13,5 +13,5 @@
  
  * 2022 여름방학 게임잼  **Jumpris** 출시일 2022.10 / Unity,2D,Android,퍼즐,플랫포머 / [스토어 링크](https://play.google.com/store/apps/details?id=com.DefaultCompany.Game_Jam_Re_New_AL) 
  
- * 2023 겨울방학 게임잼  **포션 가디언즈** 출시일 2022.10 / Unity,2D,Android,퍼즐,플랫포머 / [스토어 링크]
+ * 2023 겨울방학 게임잼  **포션 가디언즈** 출시일 2022.10 / Unity,2D,Android,퍼즐,플랫포머 / [스토어 링크](https://play.google.com/store/apps/details?id=com.ExPStudio.ParkSeongTeak)
  
