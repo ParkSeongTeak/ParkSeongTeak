@@ -21,5 +21,5 @@
 
 
  * 2023 졸업 프로젝트 [Github](https://github.com/ParkSeongTeak/GraduationProject) 
- * 2023 1학기 프로젝트Blossom-Company [Github]([https://github.com/ParkSeongTeak/GraduationProject](https://github.com/ParkSeongTeak/Blossom-Company)  
+ * 2023 1학기 프로젝트Blossom-Company [Github](https://github.com/ParkSeongTeak/GraduationProject](https://github.com/ParkSeongTeak/Blossom-Company)  
  
