@@ -3,6 +3,9 @@
 * 홍익대학교 게임개발 동아리 ExP Make팀 프로그래머 2018.03 ~ 
 * Unity, C# 개발
 
+[Notion](https://www.notion.so/Game-Programmer-6d24e70871254eb8a9e825f7ba365cec)
+[YouTube](https://www.youtube.com/channel/UCNdSMTH1-QA_hr3JVzY_F1Q)
+
 
 # 개발 게임
 * 2018 2학기 프로젝트 **한 여름밤의 꿈** 2018.11 ~ 2019.01 / Unity,2D,Android,플랫포머 / [스토어 링크](https://play.google.com/store/apps/details?id=com.Summer.Dream)
