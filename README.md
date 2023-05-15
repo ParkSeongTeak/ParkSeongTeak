@@ -3,8 +3,9 @@
 * 홍익대학교 게임개발 동아리 ExP Make팀 프로그래머 2018.03 ~ 
 * Unity, C# 개발
 
-[Notion](https://www.notion.so/Game-Programmer-6d24e70871254eb8a9e825f7ba365cec)
-[YouTube](https://www.youtube.com/channel/UCNdSMTH1-QA_hr3JVzY_F1Q)
+Notion 링크 : [Notion](https://www.notion.so/Game-Programmer-6d24e70871254eb8a9e825f7ba365cec)
+
+YouTube 링크 : [YouTube](https://www.youtube.com/channel/UCNdSMTH1-QA_hr3JVzY_F1Q)
 
 
 # 개발 게임
