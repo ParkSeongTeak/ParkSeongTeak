@@ -9,7 +9,6 @@ YouTube 링크 : [YouTube](https://www.youtube.com/channel/UCNdSMTH1-QA_hr3JVzY_
 
 
 # 개발 게임
-* 2018 2학기 프로젝트 **한 여름밤의 꿈** 2018.11 ~ 2019.01 / Unity,2D,Android,플랫포머 / [스토어 링크](https://play.google.com/store/apps/details?id=com.Summer.Dream)
 
 * 2019 여름방학 게임잼 **돌아라! 고스트**[Github](https://github.com/ParkSungTaek/GameJam_Ghost)2019.04 ~ 2019.06 / Unity,2D,Android,아케이드 / [스토어 링크](https://play.google.com/store/apps/details?id=com.ExPBlue.RollingGhost)
 
