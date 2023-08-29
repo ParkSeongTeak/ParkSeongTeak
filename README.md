@@ -25,5 +25,5 @@ YouTube 링크 : [YouTube](https://www.youtube.com/channel/UCNdSMTH1-QA_hr3JVzY_
 
 
  * 2023 졸업 프로젝트 [Github](https://github.com/ParkSungTaek/GraduationProject) / [YouTube](https://youtu.be/rjGuypG44-4)
- * 2023 1학기 프로젝트Blossom-Company [Github](https://github.com/ParkSungTaek/Blossom-Company) 2023.04 ~ 2023.08 / [YouTube](https://youtu.be/vNHlB-I5te0)
+ * 2023 1학기 프로젝트Blossom-Company [Github](https://github.com/ParkSungTaek/Blossom-Company) 2023.04 ~ 2023.08 / Unity,2D,Android / [스토어 링크](https://play.google.com/store/apps/details?id=com.ExP_Studio.BlossomCompany&hl=ko-KR) [YouTube](https://youtu.be/vNHlB-I5te0)
  * 2023 1학기 그래픽스 숙제 [Github](https://github.com/binson94/GraphicsProject) / [YouTube](https://youtu.be/T7Dc6MUAPuU)
