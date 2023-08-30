@@ -23,7 +23,11 @@ YouTube 링크 : [YouTube](https://www.youtube.com/channel/UCNdSMTH1-QA_hr3JVzY_
  
  * 2023 겨울방학 게임잼  **포션 가디언즈** [Github](https://github.com/ParkSungTaek/Portion_Guardians_2023_First_Semester_GameJam) 2023.02 ~ 2023.03 / Unity,2D,Android,전략 / [스토어 링크](https://play.google.com/store/apps/details?id=com.ExPStudio.ParkSeongTeak) / [YouTube](https://youtu.be/4pjcoYA2_8k)
 
+ * 2023 1학기 프로젝트  **Blossom-Company** [Github](https://github.com/ParkSungTaek/Blossom-Company) 2023.04 ~ 2023.08 / Unity,2D,Android / [스토어 링크](https://play.google.com/store/apps/details?id=com.ExP_Studio.BlossomCompany&hl=ko-KR) / [YouTube](https://youtu.be/vNHlB-I5te0)
+
+ * 2023 여름방학 게임잼 [가제] GameJam2023_8 [Github](https://github.com/ParkSungTaek/GameJam2023_8) 2023.08 ~ 2023.08 / Unity,2D,Android / [YouTube](https://www.youtube.com/watch?v=pOeVScuTMek&ab_channel=%EB%B0%95%EC%84%B1%ED%83%9D)
 
  * 2023 졸업 프로젝트 [Github](https://github.com/ParkSungTaek/GraduationProject) / [YouTube](https://youtu.be/rjGuypG44-4)
- * 2023 1학기 프로젝트Blossom-Company [Github](https://github.com/ParkSungTaek/Blossom-Company) 2023.04 ~ 2023.08 / Unity,2D,Android / [스토어 링크](https://play.google.com/store/apps/details?id=com.ExP_Studio.BlossomCompany&hl=ko-KR) / [YouTube](https://youtu.be/vNHlB-I5te0)
  * 2023 1학기 그래픽스 숙제 [Github](https://github.com/binson94/GraphicsProject) / [YouTube](https://youtu.be/T7Dc6MUAPuU)
+
+ * * 2023 1학기 그래픽스 숙제 [Github](https://github.com/binson94/GraphicsProject) / [YouTube](https://youtu.be/T7Dc6MUAPuU)
