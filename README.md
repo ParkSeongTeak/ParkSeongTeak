@@ -15,16 +15,16 @@ Tool : Unity
 
 # 개발 게임
 
+ * 2023 외주 프로젝트 **모뎀 스페이스**  [Github](https://github.com/ParkSungTaek/HongikChallenge) 2023.11 ~ 2023.12 / Unity,3D,GoogleSheets / [YouTube](https://youtu.be/HLWgzobizdM) / [Notion](https://www.notion.so/475a98c7c3b14fd2a36bc69eeb84bc22)
 
    
  * 2023 졸업 프로젝트 **Castle Gardians**  [Github](https://github.com/ParkSungTaek/GraduationProject) 2023.03 ~ 2023.11 / Unity,2D,Android,AWS,PostgreSQL / [스토어 링크](https://play.google.com/store/apps/details?id=com.PhotonCannon.CastleGuardians) / [YouTube](https://youtu.be/rjGuypG44-4) / [Notion](https://www.notion.so/6d24e70871254eb8a9e825f7ba365cec?pvs=4#c90de980030c4f73a410d5e5bc8f0abe)
 
- * 2023 1학기 그래픽스 숙제 **Escape From Dungeon**  [Github](https://github.com/ParkSungTaek/GraphicsProject) /2023.03 ~ 2023.06 / Unity,3D,Android/ [YouTube](https://youtu.be/T7Dc6MUAPuU)
-
-
  * 2023 여름방학 게임잼 **Neo-Pop-Creator** [Github](https://github.com/ParkSungTaek/GameJam2023_8) 2023.08 ~ 2023.08 / Unity,2D,Android / [YouTube](https://www.youtube.com/watch?v=pOeVScuTMek&ab_channel=%EB%B0%95%EC%84%B1%ED%83%9D) / [Notion](https://www.notion.so/6d24e70871254eb8a9e825f7ba365cec?pvs=4#5d936b13666c46918c5dcc25e6528d65)
 
  * 2023 1학기 프로젝트  **Blossom-Company** [Github](https://github.com/ParkSungTaek/Blossom-Company) 2023.04 ~ 2023.08 / Unity,2D,Android / [스토어 링크](https://play.google.com/store/apps/details?id=com.ExP_Studio.BlossomCompany&hl=ko-KR) / [YouTube](https://youtu.be/vNHlB-I5te0) / [Notion](https://www.notion.so/6d24e70871254eb8a9e825f7ba365cec?pvs=4#8d3ee58c3a3e4c4e9d25a4a1d63192b9)
+
+ * 2023 1학기 그래픽스 숙제 **Escape From Dungeon**  [Github](https://github.com/ParkSungTaek/GraphicsProject) /2023.03 ~ 2023.06 / Unity,3D,Android/ [YouTube](https://youtu.be/T7Dc6MUAPuU)
 
  * 2023 겨울방학 게임잼  **포션 가디언즈** [Github](https://github.com/ParkSungTaek/Portion_Guardians_2023_First_Semester_GameJam) 2023.02 ~ 2023.03 / Unity,2D,Android,전략 / [스토어 링크](https://play.google.com/store/apps/details?id=com.ExPStudio.ParkSeongTeak) / [YouTube](https://youtu.be/4pjcoYA2_8k) / [Notion](https://www.notion.so/6d24e70871254eb8a9e825f7ba365cec?pvs=4#c247cb564f774263861d28c053b14127)
 
