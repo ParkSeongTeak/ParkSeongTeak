@@ -9,7 +9,7 @@ YouTube 링크 : [YouTube](https://www.youtube.com/channel/UCNdSMTH1-QA_hr3JVzY_
 
 
 # 기술 스택
-Language : C#
+Language : C# C++
 Tool : Unity
 
 
