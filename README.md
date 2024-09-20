@@ -1,8 +1,12 @@
 ## 안녕하세요
 * 홍익대학교 18학번 컴퓨터공학과 재학
 * 홍익대학교 게임개발 동아리 ExP Make팀 프로그래머 2018.03 ~ 
-* Unity, C# 개발
 
+## 경력
+* 넷마블네오 (인턴) : 제2의 나라 2024.01 ~ 2024.03
+* 넷마블네오 : 나 혼자만 레벨업 어라이즈 2024.04 ~ 
+
+## 포트폴리오
 Notion 링크 : [Notion](https://www.notion.so/Game-Programmer-6d24e70871254eb8a9e825f7ba365cec)
 
 YouTube 링크 : [YouTube](https://www.youtube.com/channel/UCNdSMTH1-QA_hr3JVzY_F1Q)
